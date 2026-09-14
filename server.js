@@ -345,3 +345,9 @@ async function sendXPToCreatorHQ(
 
     return await response.json();
 }
+sendXPToCreatorHQ(
+    "DISCORD_USER_ID",
+    "quintYT",
+    100,
+    true
+);
