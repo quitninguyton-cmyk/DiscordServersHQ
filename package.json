@@ -1,1 +1,15 @@
+{
+"name": "creator-hq-backend",
+"version": "1.0.0",
+"description": "Creator HQ Discord leaderboard backend",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"dependencies": {
+"discord.js": "^14.21.0",
+"dotenv": "^17.2.2",
+"express": "^5.1.0"
+}
+}
 
